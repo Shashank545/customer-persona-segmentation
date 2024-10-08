@@ -1,0 +1,5 @@
+group,group_size,income_q1,income_q3,spending_q1,spending_q3,age_q1,age_q3,num_family_member_q1,num_family_member_q3,num_child_q1,num_child_q3,not_live_alone_q1,not_live_alone_q3,spending_level,married_pr,pro_preference
+A,0.21,56970.5,69305.25,661.0,1156.5,52.0,68.0,1.0,2.0,1.0,1.0,Single,Married,Medium,0.6709401709401709,"['Wine', 'On-sale']"
+B,0.23,21652.5,36116.25,34.0,102.0,40.25,54.0,1.0,2.0,1.0,1.0,Single,Married,Low,0.6342412451361867,"['Seafood', 'Gold']"
+C,0.31,35544.0,49678.0,48.0,284.0,50.0,65.0,2.0,3.0,1.0,2.0,Single,Married,Medium,0.670995670995671,"['Wine', 'On-sale']"
+D,0.24,69498.0,82275.0,1036.5,1638.0,45.0,67.0,0.0,1.0,0.0,0.0,Single,Married,High,0.6,['Meats']
