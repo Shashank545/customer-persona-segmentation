@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.DS_Store
+.DS_Store?
+
+
+# Ignore virtual environment directories
+venv/
+ai_sales_venv/
+env/
+.venv/
